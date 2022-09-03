@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^3.0.7"
+    "vite": "^3.0.7",
+    "vite-plugin-string": "^1.1.2"
   },
   "dependencies": {
+    "gsap": "^3.11.0",
     "three": "^0.144.0"
   }
 }
